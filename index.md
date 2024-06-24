@@ -14,6 +14,12 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 var myVar = "Hello, world!";
 ```
 
+Learning curve:
+- [X] Made the first Git
+- [X] Markdown formatting and apply
+- [ ] Introduce myself to the world
+
+
 ### What is a Yaktocat, by the way?
 ![Image of Yaktocat shall be included for GitHub Skills user.](https://octodex.github.com/images/yaktocat.png)
 ### Courtesy of GitHub
